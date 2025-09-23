@@ -1,3 +1,7 @@
+Nutrient–response modeling in animal studies with a single and interpretable artificial neuron
+
+
+
 📘 How to Install and Run NutriCurvist 1.0 App 
 (No Coding Required!)
 ________________________________________
