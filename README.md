@@ -5,7 +5,6 @@ Nutrient–response modeling in animal studies with a single and interpretable a
 📘 How to Install and Run NutriCurvist 1.0 App 
 (No Coding Required!)
 ________________________________________
-❗Note: Place the folder NutriCurvist_ver_01 directly on your desktop. Do not rename any files or folders, and do not move the folder into another location or subfolder — this helps avoid file access issues.
 
 Install the MATLAB Runtime (One-Time Setup):
 
